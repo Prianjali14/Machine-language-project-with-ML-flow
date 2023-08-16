@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/monda/OneDrive/Desktop/New%20Folder/Machine-language-project-with-ML-flow/mlruns/0/6c06b62d68e848f5b25161eb75b01b7b/artifacts
+end_time: 1692201455628
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6c06b62d68e848f5b25161eb75b01b7b
+run_name: popular-kite-173
+run_uuid: 6c06b62d68e848f5b25161eb75b01b7b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692201449676
+status: 3
+tags: []
+user_id: monda

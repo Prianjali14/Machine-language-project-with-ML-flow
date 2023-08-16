@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/monda/OneDrive/Desktop/New%20Folder/Machine-language-project-with-ML-flow/mlruns/0/1052ba5ad4e2474083968ff73452945d/artifacts
+end_time: 1692201839860
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1052ba5ad4e2474083968ff73452945d
+run_name: sincere-squid-451
+run_uuid: 1052ba5ad4e2474083968ff73452945d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692201835341
+status: 3
+tags: []
+user_id: monda

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/monda/OneDrive/Desktop/New%20Folder/Machine-language-project-with-ML-flow/mlruns/0/9bff0608296a4b52a6f5abcf2053e1f4/artifacts
+end_time: 1692202436142
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9bff0608296a4b52a6f5abcf2053e1f4
+run_name: salty-mule-692
+run_uuid: 9bff0608296a4b52a6f5abcf2053e1f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692202431185
+status: 3
+tags: []
+user_id: monda
