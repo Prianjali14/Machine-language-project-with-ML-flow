@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/monda/OneDrive/Desktop/New%20Folder/Machine-language-project-with-ML-flow/mlruns/0/eefbac8e84ac4908814d4fd367ddab8a/artifacts
+end_time: 1692210110325
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eefbac8e84ac4908814d4fd367ddab8a
+run_name: resilient-ape-1
+run_uuid: eefbac8e84ac4908814d4fd367ddab8a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692210105147
+status: 3
+tags: []
+user_id: monda
