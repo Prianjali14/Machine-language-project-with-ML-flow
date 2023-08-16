@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/monda/OneDrive/Desktop/New%20Folder/Machine-language-project-with-ML-flow/mlruns/0/bd640783dbff405f8dbba7b3e7752d10/artifacts
+end_time: 1692204739824
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bd640783dbff405f8dbba7b3e7752d10
+run_name: serious-quail-428
+run_uuid: bd640783dbff405f8dbba7b3e7752d10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692204735209
+status: 3
+tags: []
+user_id: monda
