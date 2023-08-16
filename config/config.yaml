@@ -9,7 +9,6 @@ data_ingestion:
 
 
 
-
 data_validation:
   root_dir: artifacts/data_validation
   unzip_data_dir: artifacts/data_ingestion/winequality-red.csv
