@@ -1,6 +1,7 @@
 # Machine-language-project-with-ML-flow
-
-
+# Wine Quality Predictor based on its Chemical Properties
+Developed a Flask-based ML web-app to predict the wine quality from its chemical properties (acidity, sugar, sulphates)    
+achieving about 94% accuracy. 
 ## Workflows
 
 1. Update config.yaml
